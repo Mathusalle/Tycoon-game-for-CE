@@ -1,6 +1,12 @@
 /*-- Program name --*/
 *: Tortilla Man
 * Buisness building *
-*/
 
-i
+#include <stdbool.h>
+#include <stdio.h>
+#include <string.h>
+#include <debug.h>
+
+#include <graphx.h>
+#include <keypadc.h>
+#include <fileioc.h>
